@@ -1,2 +1,4 @@
 # hello-world-
-My first repositorz 
+Hello!
+Nilu here, I prefer pancakes over waffles.
+And..I am left-handed. 
